@@ -1,0 +1,15 @@
+{
+  "priority": 2,
+  "type": "tconstruct:earth_slime",
+  "resistances": {
+    "magic_damage": 1.90,
+    "sky_damage": 1.20,
+    "fire_damage": 0.80
+  },
+  "damage": {
+    "earth_damage": 1.00,
+  },
+  "ignoredSources": [
+    "PRICKED"
+  ]
+}

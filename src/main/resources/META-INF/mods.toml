@@ -26,11 +26,17 @@ An attempt at turning Tinkers Construct into an RPG.
     modId="minecraft"
     mandatory=true
     versionRange="${minecraft_range}"
-    ordering="NONE"
+    ordering="AFTER"
     side="BOTH"
 [[dependencies.tinkers_rpg]]
     modId="tconstruct"
     mandatory=true
     versionRange="${tinkers_range}"
+    ordering="AFTER"
+    side="BOTH"
+[[dependencies.tinkers_rpg]]
+    modId="alembic"
+    mandatory=true
+    versionRange="${alembic_version_range}"
     ordering="AFTER"
     side="BOTH"

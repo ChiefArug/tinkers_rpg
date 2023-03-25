@@ -1,0 +1,16 @@
+{
+  "priority": 1,
+  "type": "minecraft:magma_cube",
+  "resistances": {
+    "earth_damage": 1.90,
+    "magic_damage": 1.20,
+    "blood_damage": 0.80
+  },
+  "damage": {
+    "fire_damage": 1.00,
+  },
+  "ignoredSources": [
+    "FIRE",
+    "LAVA"
+  ]
+}

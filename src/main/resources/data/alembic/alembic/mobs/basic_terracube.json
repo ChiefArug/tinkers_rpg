@@ -1,0 +1,17 @@
+{
+  "priority": 1,
+  "type": "tconstruct:terracube",
+  "resistances": {
+    "sky_damage": 0.9,
+    "life_damage": 0.9,
+    "earth_damage": 0.9,
+    "magic_damage": 0.9,
+    "fire_damage": 0.9
+  },
+  "damage": {
+    "physical_damage": 1.00,
+  },
+  "ignoredSources": [
+    "MAGIC"
+  ]
+}

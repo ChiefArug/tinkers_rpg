@@ -1,0 +1,5 @@
+{
+  "modifier.tconstruct.soulbound": "Bonded",
+  "modifier.tconstruct.soulbound.flavor": "Not even death do us part",
+  "modifier.tconstruct.soulbound.description": "Tool remains in inventory on death!"
+}

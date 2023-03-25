@@ -166,7 +166,8 @@ def modsTomlSpec = copySpec {
         expand 'tinkers_rpg_version': tinkers_rpg_version,
             'minecraft_range': minecraft_range,
             'forge_range': forge_range,
-            'tinkers_range': tinkers_range
+            'tinkers_range': tinkers_range,
+            'alembic_version_range': alembic_version_range
     }
 }
 

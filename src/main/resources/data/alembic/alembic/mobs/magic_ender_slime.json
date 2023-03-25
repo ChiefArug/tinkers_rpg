@@ -1,0 +1,15 @@
+{
+  "priority": 2,
+  "type": "tconstruct:ender_slime",
+  "resistances": {
+    "sky_damage": 1.90,
+    "life_damage": 1.20,
+    "earth_damage": 0.80
+  },
+  "damage": {
+    "magic_damage": 1.00,
+  },
+  "ignoredSources": [
+    "MAGIC"
+  ]
+}
